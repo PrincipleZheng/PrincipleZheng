@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=principlezheng)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=principlezheng&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=principlezheng&hide=html,Tex,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-My name is Yuanze, a final-year student at Fudan University studying computer science. I'm going to pursue my [Master of Science in Professional Computer Science](https://www.sfu.ca/computing/current-students/graduate-students/academic-programs/professional-master-of-science-in-computer-science.html) in Simon Fraser University, BC, Canada.
+My name is Yuanze, a final-year student at Fudan University studying computer science. I'm going to pursue my [Master of Science in Professional Computer Science](https://www.sfu.ca/computing/current-students/graduate-students/academic-programs/professional-master-of-science-in-computer-science.html) degree in Simon Fraser University, BC, Canada.
 
 ### Past work experience
 
