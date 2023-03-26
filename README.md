@@ -7,7 +7,7 @@ My name is Yuanze, a senior student at Fudan University studying computer scienc
 
 ### Past work experience
 
-- Interned at Meituan CRM Team, worked as a backend SWE.
+- Interned at Meituan CRM Team, worked as a backend SWE, 2022.
 
 ### Currently Learning
 
