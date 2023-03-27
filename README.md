@@ -13,13 +13,6 @@ My name is Yuanze, a senior student at Fudan University studying computer scienc
 
 - I'm trying to use React to build an Online Data Annotation Platform.
 
-### Past grades and award
-
-- Second Prize of the Scholarship for Outstanding Students at Fudan University, 2022
-- Third Prize of the Scholarship for Outstanding Students at Fudan University, 2021
-- Third Price of Fudan Programming Contest, 2020
-- Excellent Student of Jilin Province, China, 2019
-
 ### How to reach me
 
 - zhengyuanze2001@163.com 
