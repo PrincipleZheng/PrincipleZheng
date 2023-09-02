@@ -6,13 +6,13 @@
 My name is Yuanze, a senior student at [Fudan University](https://cs.fudan.edu.cn/) studying computer science. I'm going to pursue my Master of Computer Science degree in [University of Illinois Urbana-Champaign](https://illinois.edu/), United States.
 <!-- [Master of Science in Professional Computer Science](https://www.sfu.ca/computing/current-students/graduate-students/academic-programs/professional-master-of-science-in-computer-science.html) degree in Simon Fraser University, BC, Canada.
  -->
-### Past work experience
-
-- Interned at Meituan CRM Team, worked as a backend SWE, 2022.
+### Work experience
+- Interning at Schniedr Electric, working on building an Edge Device Automation Management Platform.
+- Interned at Meituan CRM Team, worked as a backend SWE.
 
 ### Currently Learning
 
-- I'm trying to use React to build an Online Data Annotation Platform.
+- I'm learning K8S and Go currently.
 
 ### How to reach me
 
