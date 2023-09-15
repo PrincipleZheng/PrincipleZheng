@@ -13,6 +13,7 @@ My name is Yuanze. I'm pursuing my Master of Computer Science degree in [Univers
 ### Currently Learning
 
 - I'm learning K8S and Go currently.
+- I'm also learning Swift at my spare time for fun.
 
 ### How to reach me
 
