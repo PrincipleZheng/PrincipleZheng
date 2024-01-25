@@ -8,7 +8,7 @@ My name is Yuanze. I'm pursuing my Master of Computer Science degree in [Univers
  -->
 [My Resume Here](./Resume_yuanzezheng.pdf)
 ### Work experience
-- Interning at Schniedr Electric, working on building an Edge Device Automation Management Platform.
+- Interned at Schniedr Electric, worked on building an Edge Device Automation Management Platform.
 - Interned at Meituan CRM Team, worked as a backend SWE.
 
 ### Currently Learning
