@@ -6,7 +6,7 @@
 My name is Yuanze(Evan). I'm pursuing my Master of Computer Science degree in [University of Illinois Urbana-Champaign](https://illinois.edu/), United States. I finished my bachelor's degree in Computer Science and Technology at [Fudan University](https://cs.fudan.edu.cn/).
 <!-- [Master of Science in Professional Computer Science](https://www.sfu.ca/computing/current-students/graduate-students/academic-programs/professional-master-of-science-in-computer-science.html) degree in Simon Fraser University, BC, Canada.
  -->
-[My Resume Here](./Resume-Evan-Zheng.pdf)
+[My Resume Here](./CV.pdf)
 ### Work experience
 - Interned at Schniedr Electric, worked on building an Edge Device Automation Management Platform.
 - Interned at Meituan CRM Team, worked as a backend SWE.
