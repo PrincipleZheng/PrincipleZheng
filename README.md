@@ -9,7 +9,7 @@ Welcome to my Github page! I am Evan Zheng and I am currently pursuing my Comput
 
 [My detail HomePage and Blog Here](https://principlezheng.github.io/)
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="./pic/3.png" width="50%" height="auto" />
 
 
 #### 👨‍💻 My previous and upcoming SWE experiences: 
