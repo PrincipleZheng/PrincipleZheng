@@ -1,24 +1,41 @@
-### Hi there 👋
+### Hi there 👋 
+### This is Evan Zheng!
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=principlezheng&theme=dracula&count_private=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)-->
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=principlezheng&hide=html,Tex,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/principleZheng)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuanze/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:evanzheng0077@gmail.com)
 
-My name is Yuanze(Evan). I'm pursuing my Master of Computer Science degree in [University of Illinois Urbana-Champaign](https://illinois.edu/), United States. I finished my bachelor's degree in Computer Science and Technology at [Fudan University](https://cs.fudan.edu.cn/).
-<!-- [Master of Science in Professional Computer Science](https://www.sfu.ca/computing/current-students/graduate-students/academic-programs/professional-master-of-science-in-computer-science.html) degree in Simon Fraser University, BC, Canada.
- -->
-[My Resume Here](./CV.pdf)
-### Work experience
-- Interned at Schniedr Electric, worked on building an Edge Device Automation Management Platform.
-- Interned at Meituan CRM Team, worked as a backend SWE.
+Welcome to my Github page! I am Evan Zheng and I am currently pursuing my Computer Science Master degree at UIUC!  
 
-### Currently Learning
+[My detail HomePage and Blog Here](https://principlezheng.github.io/)
 
-- I'm learning K8S and Go currently.
-- I'm also learning Swift at my spare time for fun.
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
-### How to reach me
 
-- zhengyuanze2001@163.com 
-- zhengyz19@fudan.edu.cn
+#### 👨‍💻 My previous and upcoming SWE experiences: 
+- Intern at **Microsoft** at W365 group. 🚀 *coming soon*
+- At **TimePlus**, worked on the api-server for [Proton](https://github.com/timeplus-io/proton)
+- At **Schniedr Electric**, worked on the IOT and edge computing system.
+- At **Meituan**, worked as a backend software engineer on CRM system.
 
-Thank you for reading!
+#### :muscle: Things I am challenging myself with:
+- Waking up earlier to make good use of the day
+- Gym 4 days a week
+- Learning K8S and Netty in detail. Also learn front-end dev for fun.
+
+#### :computer: Programming languages and tools: 
+<p>
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=principleZheng&show_icons=true&hide_border=true" />
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+</p>
