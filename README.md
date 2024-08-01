@@ -13,7 +13,7 @@ Welcome to my Github page! I am Evan Zheng and I am currently pursuing my Comput
 
 
 #### 👨‍💻 My previous and upcoming SWE experiences: 
-- Intern at **Microsoft** at W365 group. 🚀 *coming soon*
+- Intern at **Microsoft** at W365 group on Eng-Portal and Chaos Engineering.
 - At **TimePlus**, worked on the api-server for [Proton](https://github.com/timeplus-io/proton)
 - At **Schniedr Electric**, worked on the IOT and edge computing system.
 - At **Meituan**, worked as a backend software engineer on CRM system.
